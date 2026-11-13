@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">repositorio manual mars</string>
+    <string name="app_name">Mars Photos</string>
+    <string name="loading_error">No se pudieron cargar las fotos.</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_photos">No hay fotos disponibles.</string>
+    <string name="mars_photo">Fotograf?a de la superficie de Marte</string>
 </resources>
